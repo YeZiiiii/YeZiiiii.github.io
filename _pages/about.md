@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [Department of Computer Science and Technology](https://cs.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). My research interest includes computer vision, deep learning, and human-computer interaction.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Dr. Chen Ye](https://see.tongji.edu.cn/info/1379/11357.htm) of 209 Lab from [Department of Computer Science and Technology](https://cs.tongji.edu.cn/), Tongji University. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zi Ye's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-————————————————
-版权声明：本文为CSDN博主「QiuDi666」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
+[Email](mailto:2050857@tongji.edu.cn) / [Github](https://github.com/Yeziiiii) 
+
 
 A data-driven personal website
 ======
