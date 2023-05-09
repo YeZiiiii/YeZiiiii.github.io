@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hello! I am Zi Ye(叶梓) ：D"
+title: "Hello! I am Zi Ye(叶梓) /n
+：D"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
