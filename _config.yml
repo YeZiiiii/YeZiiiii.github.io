@@ -11,7 +11,7 @@ title                    : "Welcome to Zi Ye's page~"
 title_separator          : "-"
 name                     : &name "Zi Ye"
 description              : &description "undergraduate student @ Tongji"
-url                      : https://yeziiiii.github.io 
+url                      : "https://yeziiiii.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yeziiiii/yeziiiii.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
